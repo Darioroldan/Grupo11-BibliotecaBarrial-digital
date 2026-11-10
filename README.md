@@ -1,4 +1,4 @@
-## Biblioteca Barrial
+# Biblioteca Barrial
 
 Sistema de gestión de préstamos para una biblioteca barrial.
 
@@ -19,10 +19,15 @@ Clase 6: Colecciones y Listas.
 
 Lo elegimos porque encaja con lo que necesita la biblioteca:
 - El catálogo se maneja con una lista de objetos `Libro`.
-- Cada `Socio` tiene su propia lista de libros prestados. Así tenemos una colección de colecciones, como pide el tema: la lista de socios, y dentro de cada socio, una lista de libros
+- Cada `Socio` tiene su propia lista de libros prestados. Así tenemos una colección de colecciones, como pide el tema: la lista de socios, y dentro de cada socio, una lista de libros.
 
 ## Tecnologías
 - Java (jdk-18.0.2.1)
 - IDE: Eclipse 
 - GitHub: repositorio del proyecto
 - Trello: tablero Kanban
+
+## Cómo ejecutar el proyecto
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/Darioroldan/Grupo11-BibliotecaBarrial-digital.git](https://github.com/Darioroldan/Grupo11-BibliotecaBarrial-digital.git)
