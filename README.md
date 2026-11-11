@@ -27,7 +27,4 @@ Lo elegimos porque encaja con lo que necesita la biblioteca:
 - GitHub: repositorio del proyecto
 - Trello: tablero Kanban
 
-## Cómo ejecutar el proyecto
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Darioroldan/Grupo11-BibliotecaBarrial-digital.git](https://github.com/Darioroldan/Grupo11-BibliotecaBarrial-digital.git)
+
