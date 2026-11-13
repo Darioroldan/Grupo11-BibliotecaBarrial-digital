@@ -22,3 +22,12 @@
 - Quién hizo qué: Gonzalo creó el modelo de clases y el diagrama de relaciones. Dario actualizó las tarjetas en el tablero, sacó la captura del día 3 y actualizó la bitácora.
 - Qué nos trabó: Nada en particular.
 - Captura del tablero: Kanban/dia 3.png
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Día 4 (12/11/2026)
+
+* Qué hicimos: Como el código ya estaba subido en la carpeta src, no hubo mucho desarrollo nuevo este día. Cargamos tarjetas de Desarrollo en el tablero de Trello, actualizamos la captura del tablero y conversamos sobre la estrategia a seguir para los próximos pasos.
+* Quién hizo qué: Dario cargó las tarjetas en Trello, actualizó la captura del tablero y la bitácora. Dario y Gonzalo charlaron sobre la estrategia a seguir.
+* Qué nos trabó: Nada en particular.
+* Captura del tablero: Kanban/dia 4.png
