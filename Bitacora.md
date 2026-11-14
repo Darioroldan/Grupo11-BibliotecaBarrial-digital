@@ -31,3 +31,12 @@
 * Quién hizo qué: Dario cargó las tarjetas en Trello, actualizó la captura del tablero y la bitácora. Dario y Gonzalo charlaron sobre la estrategia a seguir.
 * Qué nos trabó: Nada en particular.
 * Captura del tablero: Kanban/dia 4.png
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##Día 5 (13/11/2026)
+
+* Qué hicimos: Revisamos el código que ya estaba subido en la carpeta src y verificamos que cubre los casos de uso del análisis: registrar libros y socios, prestar, devolver y listar los libros prestados por socio. Actualizamos el tablero de Trello, moviendo a "Hecho" la tarjeta de implementación de préstamos, devoluciones y reporte. Dejamos planificados los pasos siguientes: completar el README y crear la carpeta de pruebas.
+* Quién hizo qué: Gonzalo implementó el código base de préstamos, devoluciones y reporte. Dario revisó el código, actualizó el tablero y la bitácora, y conversó con Gonzalo sobre la estrategia a seguir.
+* Qué nos trabó: Nada en particular.
+* Captura del tablero: Kanban/dia 5.png
