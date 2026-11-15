@@ -40,3 +40,12 @@
 * Quién hizo qué: Gonzalo implementó el código base de préstamos, devoluciones y reporte. Dario revisó el código, actualizó el tablero y la bitácora, y conversó con Gonzalo sobre la estrategia a seguir.
 * Qué nos trabó: Nada en particular.
 * Captura del tablero: Kanban/dia 5.png
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Día 6 (14/11/2026)
+
+* Qué hicimos: Actulizamos el README siguiendo la plantilla del Anexo A, con los pasos para ejecutar el proyecto, las funcionalidades y el resumen de pruebas. Creamos la carpeta pruebas con el plan de pruebas y ejecutamos el programa en Eclipse: listado del catálogo y reporte de préstamos por socio, con resultados iguales a los esperados. Actualizamos el tablero de Trello.
+* Quién hizo qué: Dario completó el README, creó la carpeta pruebas con el plan de pruebas, ejecutó las pruebas y actualizó el tablero y la bitácora.
+* Qué nos trabó: En la consola de Eclipse los acentos y la ñ se ven como "�" por la codificación. No afecta el funcionamiento del programa y lo dejamos aclarado en el plan de pruebas.
+* Captura del tablero: Kanban/dia 6.png
