@@ -27,4 +27,23 @@ Lo elegimos porque encaja con lo que necesita la biblioteca:
 - GitHub: repositorio del proyecto
 - Trello: tablero Kanban
 
+## Cómo ejecutar el proyecto 
+1. Clonar el repositorio: `git clone https://github.com/Darioroldan/Grupo11-BibliotecaBarrial-digital.git` 
+2. Abrir Eclipse e importar el proyecto (*File → Import → Existing Projects into Workspace*). 
+3. Ejecutar la clase `Main` (paquete `com.biblioteca`): clic derecho → *Run As → Java Application*. Se abre un menú por consola.
+   
+## Funcionalidades 
+- Agregar libros al catálogo, con validación de ID único. 
+- Eliminar libros (no permite borrar uno que está prestado). 
+- Buscar un libro por ID y listar el catálogo completo. 
+- Registrar socios, con validación de número de socio único. 
+- Prestar un libro a un socio y registrar su devolución. 
+- Reporte de los libros prestados por cada socio.
 
+## Capturas de pantalla
+
+![Salida del programa](pruebas/consola.png)
+
+## Pruebas realizadas
+
+Se probó el programa ejecutando la clase `Main` en Eclipse: listado del catálogo y reporte de préstamos por socio. El detalle de cada caso, con el resultado esperado y el obtenido, está en la carpeta [/pruebas](pruebas/).
