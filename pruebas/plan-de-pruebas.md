@@ -14,11 +14,11 @@ Las pruebas se hicieron ejecutando la clase `Main` en Eclipse.
 
 **Prueba 1: Listar el catálogo**
 
-![Listar el catálogo](consola-Listarcatalogo.png)
+![Listar el catálogo](consola%20-Listar%20catalogo.png)
 
 **Prueba 2: Reporte de préstamos por socio (sin préstamos)**
 
-![Reporte de préstamos por socio](consola-Reportedepr%C3%A9stamosporsocio.png)
+![Reporte de préstamos por socio](consola-Reporte%20de%20pr%C3%A9stamos%20por%20socio.png)
 
 **Prueba 3: Registrar un socio nuevo y prestarle un libro**
 
