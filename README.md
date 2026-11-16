@@ -47,3 +47,11 @@ Lo elegimos porque encaja con lo que necesita la biblioteca:
 ## Pruebas realizadas
 
 Se probó el programa ejecutando la clase `Main` en Eclipse: listado del catálogo y reporte de préstamos por socio. El detalle de cada caso, con el resultado esperado y el obtenido, está en la carpeta [/pruebas](pruebas/).
+
+## Conclusiones
+
+**Qué aprendimos:** Aprendimos a trabajar en un proyecto de programación de principio a fin: pasar de la idea al análisis, el diseño, el desarrollo y las pruebas, y organizar todo en etapas con un tablero en Trello y un repositorio en GitHub.
+
+**Qué dificultades tuvimos:** Fuimos solo dos integrantes en el grupo. Nos llevó tiempo familiarizarnos con Trello y GitHub, y tuvimos un problema con la codificación de los acentos en la consola de Eclipse, que resolvimos cambiando su configuración.
+
+**Qué mejoraríamos:** Mejoraríamos el diseño de la consola para que el menú y los mensajes sean más claros y fáciles de usar para el encargado de la biblioteca.
