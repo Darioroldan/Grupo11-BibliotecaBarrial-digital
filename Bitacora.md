@@ -11,7 +11,7 @@
 ## Día 2 (10/11/2026)
 - Qué hicimos: Realizamos el análisis del sistema. Definimos el actor (encargado de biblioteca) y redactamos 5 casos de uso: registrar libro, registrar socio, registrar préstamo, registrar devolución y listar libros prestados. Cargamos los casos de uso en el tablero de Trello. Creamos la carpeta docs en el repositorio y subimos el análisis. Se creo la carpeta src con el código base. Se subió la captura de pantalla del día 2. Creamos las tarjetas en Trello. 
 - Quién hizo qué: Dario redactó el análisis, lo subió a la carpeta docs y cargó los casos de uso en Trello. Gonzalo actualizó la captura de pantalla y la subió, colaboró con las ideas de casos de uso. Gonzalo subió el código base en src (clases Libro, Socio, BibliotecaService y Main).
-- Qué nos trabó: Subir enlace para para integrar eclipse con Github.
+- Qué nos trabó: Subir enlace para integrar eclipse con Github.
 - Captura del tablero: ![Tablero día 2](Kanban/dia%202.png)
 - Nos ayudamos con lo dado en las materias sistema de información 1 y 2 para los casos de uso.  
 
@@ -34,7 +34,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Día 5 (13/11/2026)
+## Día 5 (13/11/2026)
 
 * Qué hicimos: Revisamos el código que ya estaba subido en la carpeta src y verificamos que cubre los casos de uso del análisis: registrar libros y socios, prestar, devolver y listar los libros prestados por socio. Actualizamos el tablero de Trello, moviendo a "Hecho" la tarjeta de implementación de préstamos, devoluciones y reporte. Dejamos planificados los pasos siguientes: completar el README y crear la carpeta de pruebas.
 * Quién hizo qué: Gonzalo implementó el código base de préstamos, devoluciones y reporte. Dario revisó el código, actualizó el tablero y la bitácora, y conversó con Gonzalo sobre la estrategia a seguir.
@@ -43,16 +43,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Día 6 (14/11/2026)
+## Día 6 (14/11/2026)
 
-* Qué hicimos: Actulizamos el README siguiendo la plantilla del Anexo A, con los pasos para ejecutar el proyecto, las funcionalidades y el resumen de pruebas. Creamos la carpeta pruebas con el plan de pruebas y ejecutamos el programa en Eclipse: listado del catálogo y reporte de préstamos por socio, con resultados iguales a los esperados. Actualizamos el tablero de Trello.
+* Qué hicimos: Actualizamos el README siguiendo la plantilla del Anexo A, con los pasos para ejecutar el proyecto, las funcionalidades y el resumen de pruebas. Creamos la carpeta pruebas con el plan de pruebas y ejecutamos el programa en Eclipse: listado del catálogo y reporte de préstamos por socio, con resultados iguales a los esperados. Actualizamos el tablero de Trello.
 * Quién hizo qué: Dario completó el README, creó la carpeta pruebas con el plan de pruebas, ejecutó las pruebas y actualizó el tablero y la bitácora.
 * Qué nos trabó: En la consola de Eclipse los acentos y la ñ se ven como "�" por la codificación. No afecta el funcionamiento del programa y lo dejamos aclarado en el plan de pruebas.
 * Captura del tablero: ![Tablero día 6](Kanban/dia%206.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Día 7 (15/11/2026)
+## Día 7 (15/11/2026)
 
 * Qué hicimos: Cerramos el proyecto. Completamos las conclusiones del README, que ya tiene todas las secciones de la plantilla. Ejecutamos pruebas nuevas en Eclipse: alta de socio, préstamo, reporte de préstamos, devolución y un préstamo con un socio inexistente. Actualizamos el plan de pruebas con sus capturas. Resolvimos el problema de los acentos en la consola cambiando la configuración de Eclipse. Revisamos el tablero de Trello para dejar todas las tarjetas en "Hecho".
 * Quién hizo qué: Dario completó las conclusiones, realizó las pruebas, subió las capturas y actualizó el plan de pruebas, la bitácora y el tablero.
