@@ -49,3 +49,12 @@ Día 6 (14/11/2026)
 * Quién hizo qué: Dario completó el README, creó la carpeta pruebas con el plan de pruebas, ejecutó las pruebas y actualizó el tablero y la bitácora.
 * Qué nos trabó: En la consola de Eclipse los acentos y la ñ se ven como "�" por la codificación. No afecta el funcionamiento del programa y lo dejamos aclarado en el plan de pruebas.
 * Captura del tablero: ![Tablero día 6](Kanban/dia%206.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Día 7 (15/11/2026)
+
+* Qué hicimos: Cerramos el proyecto. Completamos las conclusiones del README, que ya tiene todas las secciones de la plantilla. Ejecutamos pruebas nuevas en Eclipse: alta de socio, préstamo, reporte de préstamos, devolución y un préstamo con un socio inexistente. Actualizamos el plan de pruebas con sus capturas. Resolvimos el problema de los acentos en la consola cambiando la configuración de Eclipse. Revisamos el tablero de Trello para dejar todas las tarjetas en "Hecho".
+* Quién hizo qué: Dario completó las conclusiones, realizó las pruebas, subió las capturas y actualizó el plan de pruebas, la bitácora y el tablero.
+* Qué nos trabó: Los acentos y la ñ se veían como "�" en la consola de Eclipse. Lo resolvimos cambiando la codificación en la configuración.
+* Captura del tablero: [dia 7.png](Kanban/dia%207.png)
