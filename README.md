@@ -46,7 +46,7 @@ Lo elegimos porque encaja con lo que necesita la biblioteca:
 
 ## Pruebas realizadas
 
-Se probó el programa ejecutando la clase `Main` en Eclipse: listado del catálogo y reporte de préstamos por socio. El detalle de cada caso, con el resultado esperado y el obtenido, está en la carpeta [/pruebas](pruebas/).
+Se probó el programa ejecutando la clase `Main` en Eclipse: listado del catálogo, reporte de préstamos por socio, alta de socio, préstamo y devolución de libros. El detalle de cada caso, con el resultado esperado y el obtenido, está en la carpeta [/pruebas](pruebas/).
 
 ## Conclusiones
 
