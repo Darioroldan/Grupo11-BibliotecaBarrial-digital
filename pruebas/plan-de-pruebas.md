@@ -32,4 +32,4 @@ Las pruebas se hicieron ejecutando la clase `Main` en Eclipse.
 
 
 - En la consola de Eclipse los acentos y la ñ se ven como "�". Es un tema de codificación de la consola, no afecta el funcionamiento del programa.
-- 15/11: se solucionó el error de acentos ("�") en la consola cambiando la configuración de codificación de Eclipse.
+- 15/11: se solucionó el error de acentos ("�") en la consola cambiando la configuración de codificación de Eclipse. Se volvió a subir la captura de la prueba 1 
